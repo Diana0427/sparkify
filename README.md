@@ -15,8 +15,7 @@ Python 3, Pyspark, datetime, numpy, pandas, matplotlib, seaborn
 该项目最后的模型显示，影响用户流失的最重要的3个特征是：用户平均每个 session 听多少首歌、用户喜欢的次数和用户的留存时间。机器学习模型可以较好的预测用户流失。在预测流失之后，我们就可以采取相应的预防措施。之后改进的方向有：选择其他特征进入模型；在调参中增加备选的参数范围。
 
 ### 博客文章
-博客文章地址为：https://mp.weixin.qq.com/s/SGs-ZMva8Z4FkJBYpKt3Vw
-
+博客文章地址为：https://mp.weixin.qq.com/s/gcEjY8TLjJSXVlkknidXHA
 
 
 
